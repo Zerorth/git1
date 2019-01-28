@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         echo "Este es un proyecto de git [0]";
         echo "Este sera el primer commit [1]";
+        echo "Esto es otra linea mas [2]";
+        echo "Voy a hacer un segundo commit [3]";
         ?>
     </body>
 </html>
